@@ -3,5 +3,5 @@ def add(a, b):
 
 
 if __name__ == "__main__":
-    print("Hello from DevOps!")
+    print("Hello  DevOps!")
     print("Sum:", add(10, 20))
