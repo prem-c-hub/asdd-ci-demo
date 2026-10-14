@@ -1,6 +1,7 @@
-print("Hello from DevOps!")
+def add(a, b):
+    return a + b
 
-a = 10
-b = 20
 
-print("Sum:", a + b)
+if __name__ == "__main__":
+    print("Hello from DevOps!")
+    print("Sum:", add(10, 20))
